@@ -38,7 +38,7 @@ The front end is built on **[Edmin Responsive Bootstrap Admin Template](http://e
 
 * `apt-get install php5.6 php5.6-mcrypt`
 
-* `git clone https://github.com/prabhakar267/library-management-system`
+* `git clone https://github.com/keshavjha0369/library-management-system`
 
 * `cd library-management-system`
 
@@ -82,7 +82,7 @@ With the above notes in mind, Windows setup is not too tricky:
 
 * `cd C:/path/to/xampp/htdocs`;
 
-* `git clone https://github.com/prabhakar267/library-management-system`;
+* `git clone https://github.com/keshavjha0369/library-management-system`;
 
 * `cd library-management-system`;
 
